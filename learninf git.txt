@@ -1,0 +1,31 @@
+01. git init // git initize korar jonno..
+02. git config --global user.name "nurgit" // globaly name sate korar jonnon 
+03. git config --global user.email "nurgit" // globaly email sate korar jonnon 
+04. git config --list // user name  & email dhakar jonno ..
+
+-----------------unstaged & staged----------------
+
+05. git status // unstaged file & staged file dakhar jonno..
+06. git add fileName.txt// netdesto file staged a add korar jonno 
+07. git add --all //sob file akl satha staged a add korar jonno 
+07. git add . //sob file akl satha staged a add korar jonno ***
+
+----------------commit----------------
+08. git commit /..than "I" than change ar namme "2 file commit" deta hoba than "esc" thane ":x"
+     or
+08. git commmit -m "2 nd commit" // commit korar shortcut upay ..***
+09. git log // all commit file dakhar jonno ...
+10. git log --oneline // all commit file bestsreto na dakhar jonno
+11. git checkout 6b96b42 // agar file a fera jaur jonno ..
+12. 	git checkout master // master brance a back jour jonno 
+13. git diff // new somthing add korla shata dakhar jonno
+14. git show 780e774 // commit a ki ki change korse ata dakhaaar jonno ...
+15. git diff 6b96b42 780e774 // 2 ta commit ar modha diffrent dakhar jonno ..
+............
+16. gir rm git5.txt //file remove(unstged a remove hoi na  ) korar jonno 
+17. git reset HEAD git5.txt // unstaged thaka o remove korar jonno 
+
+
+
+
+
